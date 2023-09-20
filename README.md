@@ -9,7 +9,7 @@
 --------
 ## lesson 2
 
-- line 6 - mn
+- line 6 - mn/ft
 - line 7
 - line 8
 - line 9
